@@ -1,3 +1,5 @@
+def main():
+    print("Shihao Tan")
 
 
-print("Shihao Tan")
+main()
